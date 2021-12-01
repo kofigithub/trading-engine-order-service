@@ -1,0 +1,6 @@
+package tl4;
+
+public enum Exchange {
+   // NYSE,NASDAQ,LSE,HKEX,SZSE,TSE,TSX,NSE,BSE,EURONEXT,SSE
+    EXCHANGE1,EXCHANGE2
+}
